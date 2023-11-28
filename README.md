@@ -1,4 +1,3 @@
 # Test
 Hinhoo
-đừng mở mờ!!
-Nhớ là open in safari nha
+Nhớ là open with safari nha
